@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "username": "johndoe",
+      "email": "johndoe@example.com",
+      "password": "password123"
+    },
+    {
+      "username": "janedoe",
+      "email": "janedoe@example.com",
+      "password": "password456"
+    },
+    {
+      "username": "bobsmith",
+      "email": "bobsmith@example.com",
+      "password": "password789"
+    },
+    {
+      "id": "bfbb",
+      "username": "jane_smith",
+      "email": "jane_smith@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "bcc0",
+      "username": "khalid",
+      "email": "khalid",
+      "password": "khalid"
+    },
+    {
+      "id": "217e",
+      "username": "omar",
+      "email": "osithiqw",
+      "password": "omar"
+    },
+    {
+      "id": "899f",
+      "username": "ahmed",
+      "email": "ahmed",
+      "password": "ahmed"
+    }
+  ]
+}

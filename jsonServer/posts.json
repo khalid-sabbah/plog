@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "username": "john_doe",
+      "content": "This is a sample post.",
+      "image": "https://media.sproutsocial.com/uploads/2022/06/profile-picture.jpeg",
+      "timestamp": "2024-07-23T10:00:00Z"
+    },
+    {
+      "id": 2,
+      "username": "jane_smith",
+      "content": "Hello, world!",
+      "image": "https://images.pexels.com/photos/36029/aroni-arsa-children-little.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "timestamp": "2024-07-23T11:00:00Z"
+    },
+    {
+      "id": 3,
+      "username": "john_doe",
+      "content": "This is a sample post.",
+      "image": "https://img.freepik.com/free-photo/natures-beauty-reflected-tranquil-mountain-waters-generative-ai_188544-7867.jpg?t=st=1721687903~exp=1721691503~hmac=d4c0756df308474ac97ada5df9ab2ec28232ffea5df4694aaf4b008b9cfc6e97&w=996",
+      "timestamp": "2024-07-23T10:00:00Z"
+    },
+    {
+      "id": 4,
+      "username": "jane_smith",
+      "content": "Hello, world!",
+      "image": "https://img.freepik.com/premium-photo/double-exposure-person-pier-by-river-against-cloudy-sky_1048944-3084867.jpg?size=626&ext=jpg&uid=R156539310&ga=GA1.1.1346579753.1720547607&semt=ais_user",
+      "timestamp": "2024-07-23T11:00:00Z"
+    },
+    {
+      "id": 5,
+      "username": "john_doe",
+      "content": "This is a sample post.",
+      "image": "https://img.freepik.com/free-photo/fresh-yellow-daisy-single-flower-close-up-beauty-generated-by-ai_188544-15543.jpg?t=st=1721688303~exp=1721691903~hmac=45cf6cd5465d0b686f5240d115a0eac4fd1924ce913707ad69dbd7ffb9cb701a&w=1060",
+      "timestamp": "2024-07-23T10:00:00Z"
+    },
+    {
+      "id": 6,
+      "username": "jane_smith",
+      "content": "Hello, world!",
+      "image": "https://img.freepik.com/premium-photo/stock-photo-illustration_1137879-148108.jpg?uid=R156539310&ga=GA1.1.1346579753.1720547607&semt=ais_user",
+      "timestamp": "2024-07-23T11:00:00Z"
+    }
+  ]
+}
